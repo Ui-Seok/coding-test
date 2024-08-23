@@ -1,0 +1,1 @@
+{"name":"Local: 31403","url":"c:\\code\\coding-test\\baekjoon\\31403.py","tests":[{"id":1724344419547,"input":"3\n4\n5","output":"2\n29"},{"id":1724344776630,"input":"3\n1000\n4","output":"999\n30996"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code\\coding-test\\baekjoon\\31403.py","group":"local","local":true}
